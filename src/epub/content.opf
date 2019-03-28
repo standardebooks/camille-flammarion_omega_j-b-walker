@@ -39,7 +39,6 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/74015971</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Philosophy</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A comet threatens to collide with the Earth, perhaps bringing about the end of the world.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
