@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Omega</dc:title>
 		<meta property="file-as" refines="#title">Omega</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,18 +37,17 @@
 		<meta property="file-as" refines="#fulltitle">Omega: The Last Days of the World</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/74015971</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A comet threatens to collide with the Earth, perhaps bringing about the end of the world.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Born in 1842, Camille Flammarion was a French astronomer who wrote many popular books about science and astronomy, together with a number of novels which we would now consider to be science fiction. He was a contemporary of H. G. Wells and Jules Verne, though his works never achieved their level of popularity.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Omega: The Last Days of the World&lt;/i&gt; is an English translation of Flammarion’s novel &lt;i xml:lang="fr"&gt;La Fin du Monde&lt;/i&gt;, published in 1893. The book’s fictional premise is the discovery of a comet on a collision course with the Earth in the 25th century. However, this is mostly a pretext on which Flammarion can hang his interesting scientific speculations about how the world will end, together with philosophical thoughts about war and religion. Much of the scientific description he uses in the book, while accurately representing the knowledge and thinking of his time, has today been superseded by modern discoveries. For example, we now know the source of the Sun’s energy to be nuclear fusion rather than being due to gravitational contraction and the constant infall of meteorites.&lt;/p&gt;
 			&lt;p&gt;When talking about the ills of society, however, Flammarion could well be talking about today’s world. For example, he excoriates the vast waste of society’s resources on war, and demonstrates how much more productive each nation’s economy would be without it. He also depicts the media of his future world as having been entirely taken over by commercial interests, publishing only what will excite the greatest number of readers rather than serving the public interest.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Omega&lt;/i&gt; ranges over a vast period of time, from prehistory through to millions of years in the future when mankind has been reduced to the last two doomed individuals. Nevertheless, the book ends on a hopeful and inspiring note.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/57489</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006708866</dc:source>
