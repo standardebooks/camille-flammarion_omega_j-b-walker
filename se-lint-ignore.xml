@@ -6,10 +6,4 @@
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
-	<file path="epilogue.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>`se titlecase` does not correctly titlecase Greek letters; they are correctly capitalized in the text.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
