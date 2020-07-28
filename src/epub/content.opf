@@ -39,7 +39,6 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A comet threatens to collide with the Earth, perhaps bringing about the end of the world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
