@@ -10,6 +10,10 @@ abbr.era{
 	text-align: center;
 }
 
+.newscry i{
+	font-style: normal;
+}
+
 .variable{
 	font-style: italic;
 	font-weight: bold;
