@@ -20,6 +20,7 @@
 }
 
 [epub|type~="epigraph"]{
+	display: inline-block;
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
@@ -27,7 +28,6 @@
 	margin-top: 0;
 	text-align: initial;
 	text-indent: 0;
-	display: inline-block;
 }
 
 [epub|type~="epigraph"] cite{
@@ -43,9 +43,9 @@
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 /* End all epigraphs */
 
