@@ -67,7 +67,6 @@
 		<meta property="se:role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="translator">J. B. Walker</dc:contributor>
 		<meta property="file-as" refines="#translator">Walker, J. B.</meta>
-		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">James Ward</dc:contributor>
 		<meta property="file-as" refines="#artist">Ward, James</meta>
