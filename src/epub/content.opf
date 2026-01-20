@@ -53,7 +53,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/006708866</dc:source>
 		<dc:source>https://books.google.com/books?id=H-U4AQAAMAAJ</dc:source>
 		<meta property="se:production-notes">I have corrected several mis-translations of the period in which the book is set, after consulting the original French. The page scans of the English translation have the setting as being variously in the 25th Century, the 35th Century and the 24th Century. The French version makes it clear that the correct period is the 25th Century.</meta>
-		<meta property="se:word-count">54933</meta>
+		<meta property="se:word-count">54860</meta>
 		<meta property="se:reading-ease.flesch">44.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Omega:_The_Last_Days_of_the_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/camille-flammarion_omega_j-b-walker</meta>
