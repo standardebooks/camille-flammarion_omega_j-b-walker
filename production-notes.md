@@ -1,0 +1,1 @@
+I have corrected several mis-translations of the period in which the book is set, after consulting the original French. The page scans of the English translation have the setting as being variously in the 25th Century, the 35th Century and the 24th Century. The French version makes it clear that the correct period is the 25th Century.
